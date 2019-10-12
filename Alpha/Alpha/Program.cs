@@ -12,7 +12,7 @@ namespace Alpha
         static void Main(string[] args)
         {
             Alpha alpha = new Alpha();
-            Console.WriteLine(alpha.maxPref("zyx"));
+            Console.WriteLine(alpha.maxPref("abcdegfhijk"));
             Console.ReadKey();
         }
     }
